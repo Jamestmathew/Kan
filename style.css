@@ -332,7 +332,7 @@ ul { list-style: none; }
 .hero-badge {
   position: absolute;
   bottom: 10%;
-  left: -16px;
+  left: -10px;
   background: var(--c-gold);
   color: var(--c-navy);
   border-radius: var(--radius-md);
